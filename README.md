@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 Shreeya Garg 
 
 <!--
 **shreeya13garg/shreeya13garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    ⭐ Excited about working on innovative projects that aim to solve real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    👨‍🎓 Completed my Undergraduate Degree with honours @ IIITD and contributed to various development and research projects.
+
+    👨‍💻 Experience training machine learning and deep learning models, developing youtube extension, working on big data analysis and web development.
+
+    🤝 Open to connecting with fellow developers & researchers and learning something new.
+
 -->
+
+## Tech Stack 
+Python, Java, Django, JavaScript, HTML, CSS, ReactJS, C++, SQL, PySpark, Machine Learning, Natural Language Understanding, Deep Learning, Artificial Intelligence, Computer Vision, Blockchain and Cryptocurrency, Data Science
+
+
+
+   
+
+
