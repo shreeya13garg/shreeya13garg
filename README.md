@@ -1,4 +1,4 @@
-### Hi there 👋 Shreeya Garg 
+### Hi 👋, I'm Shreeya Garg!
 
 <!--
 **shreeya13garg/shreeya13garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
