@@ -12,7 +12,9 @@
 
     🤝 Open to connecting with fellow developers & researchers and learning something new.
 
-    👨‍🎓 Worked on three groundbreaking researches which got published in renowned conferences and journals and recieved the Dean's List for Innovation Research and Development Award at IIIT Delhi. 
+    👨‍🎓 Worked on three groundbreaking researches which got published in renowned conferences and journals. 
+    
+    👨‍🎓 I Recieved the Dean's List for Innovation Research and Development Award at IIIT Delhi. 
 
 ## Tech Stack 
 Python, Java, Django, JavaScript, HTML, CSS, ReactJS, C++, SQL, PySpark, Machine Learning, Natural Language Understanding, Deep Learning, Artificial Intelligence, Computer Vision, Blockchain and Cryptocurrency, Data Science
